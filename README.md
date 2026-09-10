@@ -1,4 +1,4 @@
-# Heart Disease Prediction ❤️
+# Heart Disease Prediction
 
 A Machine Learning project developed during our **AI Internship at Samsung Innovation Campus**, in collaboration with **Life Makers Foundation**.
 
@@ -56,16 +56,3 @@ After comparing and tuning the models, **Gradient Boosting** was selected as our
 * Scikit-learn
 * XGBoost
 * Jupyter Notebook
-
-## 👥 Team
-
-This project was completed as a team during the AI Internship.
-
-## 🙏 Acknowledgements
-
-Special thanks to **Samsung Innovation Campus** and **Life Makers Foundation** for providing this learning opportunity.
-
-## ⚠️ Disclaimer
-
-This project is for **educational purposes only** and should not be used as a medical diagnosis tool.
-
